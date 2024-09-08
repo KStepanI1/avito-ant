@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.71ae2a93.css",
-    "main.js": "/static/js/main.a05519c1.js",
-    "static/js/453.71f3f9aa.chunk.js": "/static/js/453.71f3f9aa.chunk.js",
-    "index.html": "/index.html",
-    "main.71ae2a93.css.map": "/static/css/main.71ae2a93.css.map",
-    "main.a05519c1.js.map": "/static/js/main.a05519c1.js.map",
-    "453.71f3f9aa.chunk.js.map": "/static/js/453.71f3f9aa.chunk.js.map"
+    "main.css": "/avito-ant/static/css/main.71ae2a93.css",
+    "main.js": "/avito-ant/static/js/main.516ca649.js",
+    "static/js/453.71f3f9aa.chunk.js": "/avito-ant/static/js/453.71f3f9aa.chunk.js",
+    "index.html": "/avito-ant/index.html",
+    "main.71ae2a93.css.map": "/avito-ant/static/css/main.71ae2a93.css.map",
+    "main.516ca649.js.map": "/avito-ant/static/js/main.516ca649.js.map",
+    "453.71f3f9aa.chunk.js.map": "/avito-ant/static/js/453.71f3f9aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71ae2a93.css",
-    "static/js/main.a05519c1.js"
+    "static/js/main.516ca649.js"
   ]
 }
